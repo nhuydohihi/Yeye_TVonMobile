@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "LAB04 TV Movie HW",
+    "slug": "lab04-tv-movie-hw",
+    "version": "1.0.0",
+    "orientation": "landscape",
+    "userInterfaceStyle": "dark",
+    "assetBundlePatterns": ["**/*"]
+  }
+}
