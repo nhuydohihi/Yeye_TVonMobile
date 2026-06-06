@@ -13,6 +13,11 @@ This Expo Go project implements the Lab 4 homework: a TV-style Android movie app
 - Dashboard stats for movie count, watchlist count, and data source.
 - Optional TMDB API key input to load real popular movies from TMDB.
 
+## UI 
+<img width="1792" height="828" alt="image" src="https://github.com/user-attachments/assets/fa5019a5-2b14-456e-b344-6b93020ca42a" />
+
+<img width="1792" height="828" alt="image" src="https://github.com/user-attachments/assets/be05d03a-3bb6-42f3-a3ca-c3b0d2cecfed" />
+
 ## Run
 
 ```bash
